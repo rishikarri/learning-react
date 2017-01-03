@@ -1,0 +1,30 @@
+.scoreboard{
+	max-width: 600px;
+	margin:  auto; 
+
+}
+
+.header{
+	background-color: red;
+	color: #fff;
+
+}
+
+.teams{
+	float: left;
+}
+
+.team-name{
+	width: 100%; 
+	text-align: left;
+
+
+}
+
+.minus{
+	background-color: #ff0000;
+}
+
+button{
+	background-color: green;
+}
